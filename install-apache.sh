@@ -1,2 +1,2 @@
 #!/bin/bash
-apt-get apache2
+apt-get install apache2
